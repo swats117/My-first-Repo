@@ -1,3 +1,7 @@
-package func main() {
-	exit(2)
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("I am a real program now")
 }
