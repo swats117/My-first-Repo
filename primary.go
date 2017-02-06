@@ -4,6 +4,7 @@ import(
 	"fmt"
 )
 // This is an experimental comment.
+// Vectorized linearization
 
 func main(){
 	fmt.Printf("Oh, wait. I wanted to change something!")
